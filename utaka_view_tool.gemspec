@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["foliwe"]
   spec.email         = ["foliwe@gmail.com"]
 
-  spec.summary       = %q{Generate copyright.}
+  spec.summary       = %q{Generate copyright text .}
   spec.description   = %q{Generate copyright views for website.}
   spec.homepage      = "TODO: www.sassltd.com."
   spec.license       = "MIT"
